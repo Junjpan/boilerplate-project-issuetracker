@@ -1,0 +1,6 @@
+# independcies
+/node_modules
+
+#Misc
+.env
+.env.default
